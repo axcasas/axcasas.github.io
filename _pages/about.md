@@ -8,23 +8,22 @@ redirect_from:
   - /about.html
 ---
 
-👨🏽‍🎓 I'm a final year undergraduate student at the University of Buenos Aires, Argentina.
+👨🏽‍🎓 I am currently in my final year as an undergraduate student in Psychology at the University of Buenos Aires, Argentina.
 
-⏰ I'm currently working on my Bachelor's thesis about Chronotypes, Sleep Quality,
-Digital Device Use, and Daylight Exposure. 
+⏰ My current focus is on completing my Bachelor's thesis, which centers on the study of Chronotypes, Sleep Quality, Digital Device Use, and Daylight Exposure. 
 
-My main interests include Consciousness, Sleep, Time, Space, Animal Behavior and Cognition, and Animal Consciousness. 
+My primary research interests lie in the areas of Consciousness, Sleep, Time, Space, Animal Behavior and Cognition, and Animal Consciousness.
 
 My Experience
 ======
-While finishing my Degree, I'm participating in several extra-academic positions that include disseminating neuroscience and psychology topics in [Neurotransmitiendo](https://www.neurotransmitiendo.org/) and helping organizing webinars in the Argentinian Society for Behavioral Science. 
+As I near the completion of my degree, I am actively engaged in several extracurricular positions. For instance, I am involved in the dissemination of neuroscience and psychology topics through [Neurotransmitiendo](https://www.neurotransmitiendo.org/), as well as assisting with the organization of webinars for the Argentinian Society for Behavioral Science.
 
-I'm also participating as a teaching assistant in Neurophysiology, and Research Methods, and being a teacher colaborator in 'Applied Neurophysiology' where I give a lecture about circadian rhythms and sleep, and 'Updates in Cognitive Neuroscience', where I give a lecture about Brain Rhythms. 
+In addition, I serve as a teaching assistant for courses on Neurophysiology and Research Methods. I am also a teacher collaborator for courses such as 'Applied Neurophysiology', where I deliver lectures on topics like circadian rhythms and sleep, and 'Updates in Cognitive Neuroscience', where I lecture on Brain Rhythms.
 
 Research
 ======
-Since my very first year in my degree, I've been very interested in science, specifically about Neuroscience and Biology. This leaded me to start getting in touch with some researchers. 
+Since the very first year of my degree program, I have developed a keen interest in science, specifically in the fields of Neuroscience and Biology. As a result, I began reaching out to researchers to learn more about these subjects.
 
-I'm currently doing my thesis about chronotypes, sleep quality, digital device use, and light exposure. I'm also participating in a study about how different theoretical psychotherapies use information. 
+Currently, my thesis focuses on the study of chronotypes, sleep quality, digital device use, and light exposure. Additionally, I am participating in a research project that explores how various theoretical psychotherapies utilize information.
 
-But non-human animals are one of my biggest passions. I love to hang out and watch and identify birds. I'm always wondering what is going on inside their heads, and what the world looks like for them. This made me to join a research about parasitism in Cowbirds, where the objective is to gain more information about how the parasites are successfull in growing up and becoming adults. 
+Apart from my academic pursuits, I am deeply passionate about non-human animals, particularly birds. I enjoy observing and identifying them, and I am always curious about what is going on inside their minds and how they perceive the world around them. This has led me to participate in a research project investigating parasitism in Cowbirds, with the aim of gaining a better understanding of how parasites successfully mature and become adults.
