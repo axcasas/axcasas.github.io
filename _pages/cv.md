@@ -11,30 +11,37 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Psychology, Universidad de Buenos Aires, 2023 (expected)
+* Diploma in Cognitive Neuroscience and Experimental Psychology, Universidad Abierta Interamericana, 2021
+* Diploma in Biostatistics in R Environment, Universidad Nacional de Córdoba, 2021
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2022: Research Assistant
+  * [Universidad de San Andrés (UdeSa)](https://udesa.edu.ar/)
+  * Topic: chronotypes, sleep quality, daylight exposure, digital device use, time perception
+  * Supervisor: [Diego Andrés Golombek](https://scholar.google.com/citations?user=PZMMfnYAAAAJ&hl=en)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2022: Research Assistant (internship)
+  * [Instituto de Biología y Medicina Experimental (IBYME)](https://www.ibyme.org.ar/)
+  * Topic: Time Perception, EEG
+  * Supervisor: [Alberto Iorio](https://www.researchgate.net/profile/Alberto-Iorio-2)
+
+* 2021: Research Assistant (internship)
+  * [Instituto de Fisiología, Biología y Neurociencias (IFIBYNE)](https://ifibyne.fcen.uba.ar/)
+  * Topic: decision-making
+  * Supervisor: [Nicolás Fernandez Larrosa](https://orcid.org/0000-0002-7881-1765)
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+* R
+* Data Science
+* Organization
+* Second Brain
+  * Advanced **Obsidian** Skills
+  * Advanced **Zotero** Skills
+* Reading
 
 Publications
 ======
@@ -54,6 +61,11 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Relevant Extracurricular Experience
 ======
-* Currently signed in to 43 different slack teams
+* Seminar Organizer at the Argentine Association of Behavioral Science
+* 'Argentinian Birds' Affiliate Membership
+* CEO Member in Student Movement for Scientific Psychology, Buenos Aires, Argentina 
+* Seminar organizer at "Cognitive Seminars", IFIBYNE, Argentina
+* APA Undergraduate Student Affiliate Membership
+* Cognitive Science Society Membership

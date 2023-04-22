@@ -16,12 +16,18 @@ My primary research interests lie in the areas of Consciousness, Sleep, Time, Sp
 
 My Experience
 ======
+
+![Studying](/images/latino.jpeg){: .align-right width="200px"}
+
 As I near the completion of my degree, I am actively engaged in several extracurricular positions. For instance, I am involved in the dissemination of neuroscience and psychology topics through [Neurotransmitiendo](https://www.neurotransmitiendo.org/), as well as assisting with the organization of webinars for the Argentinian Society for Behavioral Science.
 
 In addition, I serve as a teaching assistant for courses on Neurophysiology and Research Methods. I am also a teacher collaborator for courses such as 'Applied Neurophysiology', where I deliver lectures on topics like circadian rhythms and sleep, and 'Updates in Cognitive Neuroscience', where I lecture on Brain Rhythms.
 
 Research
 ======
+
+![Science](/images/science.jpeg){: .align-right width="200px"}
+
 Since the very first year of my degree program, I have developed a keen interest in science, specifically in the fields of Neuroscience and Biology. As a result, I began reaching out to researchers to learn more about these subjects.
 
 Currently, my thesis focuses on the study of chronotypes, sleep quality, digital device use, and light exposure. Additionally, I am participating in a research project that explores how various theoretical psychotherapies utilize information.
