@@ -1,11 +1,14 @@
 ---
-title: 'Future Blog Post'
-date: 2199-01-01
-permalink: /posts/2012/08/blog-post-4/
+title: 'Consciousness Part 1: the Easy and the Hard Problem'
+date: 2021-07-31
+permalink: /posts/2012/08/blog-post-1/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - consciousness
+  - neuroscience
+  - phisolophy
 ---
+![Hard Problem of Consciousness](/images/hard_problem.jpeg){: .align-center width="300px"}
 
-This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
+You can find the full post on instagram (in Spanish) [here](https://www.instagram.com/p/CR9siZBlBOc/). 
+
+Don't forget to subscribe to [@neurotransmitiendo](https://www.instagram.com/neurotransmitiendo/)
