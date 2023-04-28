@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Axel Casas"
-  avatar           : "yo.jpeg"
-  bio              : "Trying to understand brains 🧠 and other worlds 🐙"
+  avatar           : "lorikeet.jpg"
+  bio              : "Trying to understand brains 🧠 and other worlds 🐙 | Naturalist | Pythonista"
   location         : "Sydney, Australia"
   employer         : "University of Buenos Aires"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  #orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
