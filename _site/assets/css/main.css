@@ -3264,7 +3264,7 @@ input[type="file"]:focus, input[type="radio"]:focus, input[type="checkbox"]:focu
 
 @media (max-width: 480px) {
     .author__avatar {
-        width: 135;
+        width: 135px;
         height: 135px
     }
 
