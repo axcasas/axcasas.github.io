@@ -1,6 +1,6 @@
 ---
 title: "Automating Pittsburg Sleep Quality Index in Python"
-excerpt: "In this project I worked on automating the PSQI in Python 1<br/><img src='/images/sleep-py.jpeg' width='250'>"
+excerpt: "How to automate PSQI Scoring in Python <br/><img src='/images/sleep-py.jpeg' width='250'>"
 collection: portfolio
 ---
 
