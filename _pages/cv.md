@@ -11,7 +11,8 @@ redirect_from:
 ---
 
 <iframe src="/files/casas_axel_cv.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
-You can download a PDF copy of my CV [here](/files/pdf/Williams CV.pdf).
+
+<!-- 
 
 Education
 ======
@@ -716,3 +717,4 @@ Ludwig-Maximilians-Universität München (LMU), November 2020
 
 [See certificate](https://coursera.org/share/f4f66192eefb3a21c7087b129abcaa18)
 
+-->
