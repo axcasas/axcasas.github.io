@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello there! I'm Axel"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,28 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-👨🏽‍🎓 I am currently in my final year as an undergraduate student in Psychology at the University of Buenos Aires, Argentina.
+👨🏽‍🎓 I am a **psychologist** with a degree from the **University of Buenos Aires**, Argentina, currently pursuing a **PhD in Comparative Neuroscience and Psychology** at **Ruhr University Bochum** with a **DAAD scholarship**.  
 
-⏰ My current focus is on completing my Bachelor's thesis, which centers on the study of Chronotypes, Sleep Quality, Digital Device Use, and Daylight Exposure. 
+🐦 My research focuses on **social cognition in pigeons**, using a combination of **behavioral experiments, computational modeling, and fMRI techniques** to explore the cognitive abilities of birds.  
 
-My primary research interests lie in the areas of Consciousness, Sleep, Time, Space, Animal Behavior and Cognition, and Animal Consciousness.
+My broader research interests include **comparative psychology, the evolution of cognition, consciousness, sleep, and animal behavior**.  
 
-My Experience
-======
+## **My Journey**  
 
-![Studying](/images/latino.jpeg){: .align-right width="200px"}
+Science and animals have always been my greatest passions, but the road to my PhD was far from straightforward.  
 
-As I near the completion of my degree, I am actively engaged in several extracurricular positions. For instance, I am involved in the dissemination of neuroscience and psychology topics through [Neurotransmitiendo](https://www.neurotransmitiendo.org/), as well as assisting with the organization of webinars for the Argentinian Society for Behavioral Science.
+From the beginning of my studies, I sought out opportunities beyond the classroom, engaging in **science communication** through [Neurotransmitiendo](https://www.neurotransmitiendo.org/), and helping organize webinars for the **Argentinian Society for Behavioral Science**, **NeuroTechX**, and other initiatives.  
 
-In addition, I serve as a teaching assistant for courses on Neurophysiology and Research Methods. I am also a teacher collaborator for courses such as 'Applied Neurophysiology', where I deliver lectures on topics like circadian rhythms and sleep, and 'Updates in Cognitive Neuroscience', where I lecture on Brain Rhythms.
+I also developed a strong foundation in **teaching**, serving as an assistant in courses on **Neuroscience, Research Methods, Applied Neurophysiology, and Neuroanatomy**.  
 
-Research
-======
+However, the economic crisis in Argentina led me to explore career paths beyond academia. I worked as a **Data Analyst Coordinator at The Walt Disney Company**, applying **SQL, Excel, and Python** to analyze data and develop machine learning models. While this experience honed my analytical skills, I soon realized that my true passion lay in research.  
 
-![Science](/images/science.jpeg){: .align-right width="200px"}
-
-Since the very first year of my degree program, I have developed a keen interest in science, specifically in the fields of Neuroscience and Biology. As a result, I began reaching out to researchers to learn more about these subjects.
-
-Currently, my thesis focuses on the study of chronotypes, sleep quality, digital device use, and light exposure. Additionally, I am participating in a research project that explores how various theoretical psychotherapies utilize information.
-
-Apart from my academic pursuits, I am deeply passionate about non-human animals, particularly birds. I enjoy observing and identifying them, and I am always curious about what is going on inside their minds and how they perceive the world around them. This has led me to participate in a research project investigating parasitism in Cowbirds, with the aim of gaining a better understanding of how parasites successfully mature and become adults.
+Fortunately, I was awarded a **DAAD PhD scholarship**, allowing me to return to academia and investigate the **evolution of social cognition** through the lens of the avian brain.  
