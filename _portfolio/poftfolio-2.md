@@ -13,10 +13,10 @@ iNaturalist is a global community of naturalists, scientists, and members of the
 
 I used their [API](https://api.inaturalist.org/v1/docs/) to get the observations of the yellow cardinal in Argentina. My objective was to make a map of all the informations, in order to get quick access of all the research grade and casual observations of this endangered bird. 
 
+Note that the map may not display correctly, as it is an interactive one. To run it open a colab or jupyter notebook locally. 
+
 # Colab
 
 For this project I used [Google Colab](https://colab.research.google.com/). 
 
-## [Link to Github](https://github.com/axcasas/Gubernatrix-cristata-iNaturalist-API)
-
-Note that the map may not display correctly, as it is an interactive one. To run it open a colab or jupyter notebook locally. 
+All the documentation and code can be found at: [GitHub Repository](https://github.com/axcasas/Gubernatrix-cristata-iNaturalist-API)
