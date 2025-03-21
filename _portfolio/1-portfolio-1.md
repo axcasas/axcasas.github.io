@@ -1,6 +1,6 @@
 ---
 title: "Flood Prediction In Tigre, Argentina"
-excerpt: "Flood Prediction In Tigre, Argentina <br/><img src='/images/tigre.jpeg' width='250'>"
+excerpt: "<br/><img src='/images/tigre.jpg' width='250'>"
 collection: portfolio
 ---
 
