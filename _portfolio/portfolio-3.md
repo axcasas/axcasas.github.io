@@ -1,12 +1,19 @@
 ---
-title: "My Personal Website"
-excerpt: "How I made my personal academic website <br/><img src='/images/cockatoo.png' width='250'>"
+title: "Free QR Generator GUI"
+excerpt: "My solution to generate unlimited and durable QR codes'>"
 collection: portfolio
 ---
 
 ---
-# My Personal Website
 
-I used a Github Pages template for academic websites. This was forked from [here](https://github.com/academicpages/academicpages.github.io), which was also forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
+Most of the websites to generate QR images requires you to create a new account or to pay for a QR image.
 
-You can see the full template repository [here](https://github.com/academicpages/academicpages.github.io)
+Those that are "free" only allow users to create a single QR image or last a certain period of time. This project aims to provide a simple and free QR code generation tool accessible through a user-friendly web interface. With this app, users can create QR codes for various purposes, such as sharing URLs, contact information, or product details.
+
+### Objectives
+
+- Develop an easy and free user interface to create QR images.
+- To create an app with customization options.
+- To create a GUI that allows users to create as many QR images as they want.
+
+All the documentation and code can be found at: [GitHub Repository](https://github.com/axcasas/qr_generator_app)

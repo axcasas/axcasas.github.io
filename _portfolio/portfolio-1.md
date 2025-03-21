@@ -1,6 +1,6 @@
 ---
 title: "Flood Prediction In Tigre, Argentina"
-excerpt: "<br/><img src='/images/tigre.jpg' width='250'>"
+excerpt: "How machine learning can help local communities <br/><img src='/images/tigre.jpg' width='250'>"
 collection: portfolio
 ---
 
