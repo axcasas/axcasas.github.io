@@ -1,13 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/portfolio/1-portfolio-1/</loc>
+<loc>http://localhost:4000/portfolio/portfolio-0/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/portfolio/poftfolio-2/</loc>
+<loc>http://localhost:4000/portfolio/portfolio-1/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/portfolio/portfolio-3/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/portfolio/portfolio-4/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/portfolio/portfolio-5/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/posts/2025/03/an-introduction-to-the-neuroscience-of-consciousness/</loc>
@@ -128,7 +134,7 @@
 </url>
 <url>
 <loc>http://localhost:4000/files/casas_axel_cv.pdf</loc>
-<lastmod>2025-03-21T00:06:53-07:00</lastmod>
+<lastmod>2025-04-02T10:53:23-07:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/files/paper1.pdf</loc>

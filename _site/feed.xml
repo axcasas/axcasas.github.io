@@ -1,122 +1,42 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-03-21T00:24:58-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Axel Emanuel Casas</title><subtitle>personal description</subtitle><author><name>Axel Casas</name><email>Axel.Casas@ruhr-uni-bochum.de</email></author><entry><title type="html">The Man Who Listened to the Dream of a Bird</title><link href="http://localhost:4000/posts/2025/03/blog-post-2/" rel="alternate" type="text/html" title="The Man Who Listened to the Dream of a Bird" /><published>2025-03-20T00:00:00-07:00</published><updated>2025-03-20T00:00:00-07:00</updated><id>http://localhost:4000/posts/2025/03/blog-post-2</id><content type="html" xml:base="http://localhost:4000/posts/2025/03/blog-post-2/">&lt;p&gt;Birds have long captured our fascination. Their iconic flights, vibrant plumage, and diverse melodies inspired culture, poetry, music, science, and engineering. In the last decades, we have also realized that they are &lt;strong&gt;insanely intelligent&lt;/strong&gt;. They are truly &lt;strong&gt;cognitive creatures&lt;/strong&gt;.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-04-02T10:53:39-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Axel Emanuel Casas</title><subtitle>personal description</subtitle><author><name>Axel Casas</name><email>Axel.Casas@ruhr-uni-bochum.de</email></author><entry><title type="html">The Man Who Listened to the Dream of a Bird</title><link href="http://localhost:4000/posts/2025/03/blog-post-2/" rel="alternate" type="text/html" title="The Man Who Listened to the Dream of a Bird" /><published>2025-03-20T00:00:00-07:00</published><updated>2025-03-20T00:00:00-07:00</updated><id>http://localhost:4000/posts/2025/03/blog-post-2</id><content type="html" xml:base="http://localhost:4000/posts/2025/03/blog-post-2/">&lt;p&gt;Birds have long fascinated us. Their iconic flights, vibrant plumage, and diverse melodies inspired culture, poetry, music, science, and engineering. In the last decades, we have also realized that they are insanely intelligent. They reason, solve problems, and learn in ways that rival primates. They are, quite literally, truly cognitive creatures.&lt;/p&gt;
 
-&lt;p&gt;In 2000, a remarkable discovery was made in zebra finches.&lt;/p&gt;
-
-&lt;p&gt;A study published in the prestigious journal &lt;em&gt;Science&lt;/em&gt; analyzed the brain activity of these birds when dreaming. They found that the same brain regions involved in song production were activated (Dave &amp;amp; Margoliash, 2000).&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Zebra finches were replaying their songs in what looked like a dream.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Years later, an Argentinian researcher tried to listen to these dreams.&lt;/p&gt;
+&lt;p&gt;There are thousands of species of birds, but there’s one that became a scientific superstar: the zebra Finch. Barely the size of a palm, these birds have taught us lessons about learning, memory, and even dreams.&lt;/p&gt;
 
 &lt;p&gt;This is the story of &lt;strong&gt;Gabriel Mindlin&lt;/strong&gt;, the man who listened to the dream of a bird.&lt;/p&gt;
 
-&lt;hr /&gt;
+&lt;h2 id=&quot;meet-the-zebra-finch-tiny-bird-big-discoveries&quot;&gt;Meet the Zebra Finch: Tiny Bird, Big Discoveries&lt;/h2&gt;
 
-&lt;h2 id=&quot;zebra-finches-tiny-birds-big-discoveries&quot;&gt;&lt;strong&gt;Zebra Finches: Tiny Birds, Big Discoveries&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;Let us present the protagonists of this story.&lt;/p&gt;
+&lt;p&gt;Zebra finches (Taeniopygia guttata) are small songbirds native to Australia. Recognizable by their black-and-white striped chests and bright orange beaks, they might not look like neuroscientific pioneers—but they are.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Zebra finches&lt;/strong&gt; (&lt;em&gt;Taeniopygia guttata&lt;/em&gt;) are small songbirds belonging to the class &lt;em&gt;Aves&lt;/em&gt; and the family &lt;em&gt;Estrildidae&lt;/em&gt;. They are from Australia and are known for their characteristic &lt;strong&gt;black-and-white striped chests&lt;/strong&gt; and &lt;strong&gt;orange beaks&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;These birds are among the most studied animals in neuroscience. Why? Because they offer unique insights into how brains learn and process complex behaviors—especially vocal learning. Much like humans, male zebra finches learn to vocalize by mimicking their fathers during a sensitive developmental period. Their vocal learning circuits even resemble the brain pathways we use for speech.&lt;/p&gt;
 
-&lt;p&gt;These birds are the &lt;strong&gt;most studied&lt;/strong&gt; in neuroscience.&lt;/p&gt;
+&lt;p&gt;But they also serve as great animal models for sleep and memory.&lt;/p&gt;
 
-&lt;p&gt;They are crucial for scientific research. Thanks to them, we now know a lot about &lt;strong&gt;vocal learning, social behavior, and brain plasticity&lt;/strong&gt;. Oh, and these birds are &lt;strong&gt;the best non-human animal models for studying human language acquisition&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;In 2000, a discovery by Dave and Margoliash, published in &lt;em&gt;Science&lt;/em&gt;, found that when zebra finches were asleep, the same brain regions active during song production lit up again. In other words, the birds were &lt;strong&gt;replaying&lt;/strong&gt; the songs they had practiced–&lt;strong&gt;in their dreams&lt;/strong&gt; (Dave &amp;amp; Margoliash, 2000). This phenomenon, named as replay, showed that sleep isn’t just for rest. It’s also for learning.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Male Zebra Finches learn their songs from their fathers.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;So, by replaying neural patterns during sleep, the brain strengthens memory traces, reinforcing what was learned during the day. But it also hints at something deeper: subjective experience. Could these birds be dreaming?&lt;/p&gt;
 
-&lt;p&gt;This is much like how &lt;strong&gt;humans learn language&lt;/strong&gt;. They memorize songs during a &lt;strong&gt;sensitive period&lt;/strong&gt; and practice until they master them. Surprisingly, they use &lt;strong&gt;similar brain regions to humans&lt;/strong&gt; responsible for speech.&lt;/p&gt;
+&lt;h2 id=&quot;turning-muscle-movement-into-sound&quot;&gt;Turning Muscle Movement into Sound&lt;/h2&gt;
 
-&lt;p&gt;And wait until you find out &lt;strong&gt;what happens in their brains when they sleep&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;This is where the main character of our story enters.&lt;/p&gt;
 
-&lt;hr /&gt;
+&lt;p&gt;One day, Gabriel Mindlin, an Argentinian physicist specializing in the biomechanics of vocal production, received an unexpected email from his colleague Amish Dave (yes, the same researcher who discovered replay in zebra finches). It turned out that Amish had accidentally left the recording equipment on while a zebra finch slept. To his surprise, the data showed that the bird’s throat muscles were still moving, just as they did when the bird was singing. Although the bird was asleep, its vocal apparatus was “singing” silently.&lt;/p&gt;
 
-&lt;h2 id=&quot;replaying-their-songs-in-their-dreams&quot;&gt;&lt;strong&gt;Replaying Their Songs In Their Dreams&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;This discovery &lt;strong&gt;revolutionized&lt;/strong&gt; the science of sleep.&lt;/p&gt;
+&lt;p&gt;That’s when Gabriel and Amish had a revolutionary idea.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Replay&lt;/strong&gt; consists of &lt;strong&gt;replaying neural activity patterns during sleep&lt;/strong&gt;. For example, you may have dreamed about what you did in your day. Well, scientists found that these birds &lt;strong&gt;replay the songs they practiced while awake&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;For years, he had been working on a model that translated muscle movements into synthetic vocalizations. He had used it for human speech. Could he now use it to reconstruct the silent song of a sleeping bird? If the bird’s muscle movements during sleep matched those during wakeful singing, the model might reproduce the song the bird was dreaming.&lt;/p&gt;
 
-&lt;p&gt;This discovery means that &lt;strong&gt;learning doesn’t stop when we go to sleep&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;So, Gabriel fed the data into his program.&lt;/p&gt;
 
-&lt;p&gt;By replaying the songs they are learning, these birds &lt;strong&gt;solidify the neural pathways of these vocal sequences&lt;/strong&gt;, therefore reinforcing memory. This is &lt;strong&gt;similar&lt;/strong&gt; to how humans replay memories or practice motor skills when sleeping.&lt;/p&gt;
+&lt;p&gt;The next morning, with a cup of coffee in hand and headphones on, he pressed play.&lt;/p&gt;
 
-&lt;p&gt;But this also means these birds &lt;strong&gt;could have subjective experiences&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;And he laughed&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;And Gabriel found a way &lt;strong&gt;to listen to their dreams&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;What he heard was the zebra finch’s song—a dream without sound, reconstructed from nothing but muscle activity, just like he did with humans. For the first time in human history, someone was listening to the dream of another species. But this achievement was more than just poetic. It was &lt;strong&gt;groundbreaking&lt;/strong&gt;.&lt;/p&gt;
 
-&lt;hr /&gt;
+&lt;p&gt;Months later, he and his team published their findings in &lt;em&gt;Nature&lt;/em&gt; (Amador et al., 2013). Their work combined physics, dynamic systems theory, and neuroscience to do something once thought impossible: to make animal dreams audible. This experiment pushed the boundary of what we know about non-human consciousness. It opened the door to asking not only &lt;em&gt;how&lt;/em&gt; animals experience the world but whether we might one day &lt;em&gt;see&lt;/em&gt; or &lt;em&gt;hear&lt;/em&gt; what it’s like to be another creature.&lt;/p&gt;
 
-&lt;h2 id=&quot;how-gabriel-listened-to-the-song-of-a-bird&quot;&gt;&lt;strong&gt;How Gabriel Listened to the Song of a Bird&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;One day, &lt;strong&gt;Gabriel Mindlin&lt;/strong&gt; received an urgent email from a colleague.&lt;/p&gt;
-
-&lt;p&gt;This person was &lt;strong&gt;Amish Dave&lt;/strong&gt;, who discovered &lt;strong&gt;replay in Zebra Finches&lt;/strong&gt;. In this email, he told Gabriel that he had &lt;strong&gt;forgotten to disconnect the recording instruments&lt;/strong&gt; of the bird he was studying. He went to sleep without turning off the instruments!&lt;/p&gt;
-
-&lt;p&gt;Amish was studying the &lt;strong&gt;muscle movements in the bird’s throat&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;When he went back, the bird was sleeping. But in the data from the registers, he found that the &lt;strong&gt;Zebra Finch was still moving its throat muscles like it was singing&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;The bird was &lt;strong&gt;sleeping but still moving its throat like singing&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h3 id=&quot;the-brilliant-idea&quot;&gt;&lt;strong&gt;The Brilliant Idea&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;Based on this, &lt;strong&gt;Gabriel had a great idea&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;He had been studying &lt;strong&gt;the physics and dynamics of vocal production&lt;/strong&gt; for quite some time. Over the years, he designed a &lt;strong&gt;program&lt;/strong&gt; capable of generating &lt;strong&gt;a synthetic version of a sound using throat muscle movement as an input&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;He had been doing this &lt;strong&gt;in humans&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;But now, he had &lt;strong&gt;data from a sleeping bird&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;strong&gt;“Could I replicate and generate a synthetic sound of this sleeping bird?”&lt;/strong&gt; he thought.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;If this worked, he could &lt;strong&gt;literally listen to the dream of a bird&lt;/strong&gt;, as the &lt;strong&gt;muscle movements of the sleeping bird almost perfectly matched those when the bird sings awake&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;the-first-time-a-human-heard-an-animals-dream&quot;&gt;&lt;strong&gt;The First Time a Human Heard an Animal’s Dream&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;He used the data provided by Amish and &lt;strong&gt;tried to create a synthetic sound from it&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;The next morning, he turned on his computer excitedly.&lt;/p&gt;
-
-&lt;p&gt;He took some coffee and sat down. Next, he put on his earphones and uploaded the &lt;strong&gt;throat muscle data&lt;/strong&gt; to his program. Clicked &lt;strong&gt;play&lt;/strong&gt; and listened.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;He started laughing.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Gabriel &lt;strong&gt;did it&lt;/strong&gt;. For the first time in human history, he was &lt;strong&gt;listening to the dream of an animal&lt;/strong&gt;. Happiness overwhelmed his body and senses. He was smiling &lt;strong&gt;face to face in the laboratory&lt;/strong&gt;, speechless, emotionally.&lt;/p&gt;
-
-&lt;p&gt;Everyone looked at him, &lt;strong&gt;wondering what was going on with their director&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;a-scientific-breakthrough&quot;&gt;&lt;strong&gt;A Scientific Breakthrough&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;Months later, he and his team published their results in &lt;em&gt;Nature&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;A bunch of &lt;strong&gt;physics, dynamic systems, and neuroscience&lt;/strong&gt; made it possible to get into something as &lt;strong&gt;slippery as a dream&lt;/strong&gt;. And in a &lt;strong&gt;non-human animal&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Would it be possible to &lt;strong&gt;see or feel how other animals experience the world&lt;/strong&gt;?&lt;/p&gt;
-
-&lt;p&gt;Only &lt;strong&gt;science&lt;/strong&gt; will tell us.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;animals-are-incredible&quot;&gt;&lt;strong&gt;Animals Are Incredible&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;They continually amaze us with their &lt;strong&gt;unique colors, behaviors, and the complex ecosystems they inhabit&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;In &lt;strong&gt;Cognitive Creatures&lt;/strong&gt;, you will discover their secrets and learn &lt;strong&gt;why they are crucial for our planet&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;some-questions-for-you&quot;&gt;&lt;strong&gt;Some Questions for You&lt;/strong&gt;&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Do you think animals are conscious?&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;What do you think another animal can dream about?&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;What animal would you like to learn about?&lt;/strong&gt; &lt;em&gt;We will write about it!&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;em&gt;“With a greater sense of understanding comes a greater sense of wonder.”&lt;/em&gt; — Anil Seth.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;A window into their Umwelt.&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -124,25 +44,22 @@
 &lt;ul&gt;
   &lt;li&gt;&lt;strong&gt;Dave, A. S., &amp;amp; Margoliash, D.&lt;/strong&gt; (2000). Song Replay During Sleep and Computational Rules for Sensorimotor Vocal Learning. &lt;em&gt;Science, 290&lt;/em&gt;(5492), 812-816. &lt;a href=&quot;https://doi.org/10.1126/science.290.5492.812&quot;&gt;https://doi.org/10.1126/science.290.5492.812&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Amador, A., Perl, Y., Mindlin, G.&lt;/strong&gt; et al. (2013). Elemental gesture dynamics are encoded by song premotor cortical neurons. &lt;em&gt;Nature, 495&lt;/em&gt;, 59–64. &lt;a href=&quot;https://doi.org/10.1038/nature11967&quot;&gt;https://doi.org/10.1038/nature11967&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Axel Casas</name><email>Axel.Casas@ruhr-uni-bochum.de</email></author><category term="animals" /><category term="birds" /><category term="dreams" /><category term="sleep" /><summary type="html">Birds have long captured our fascination. Their iconic flights, vibrant plumage, and diverse melodies inspired culture, poetry, music, science, and engineering. In the last decades, we have also realized that they are insanely intelligent. They are truly cognitive creatures.</summary></entry><entry><title type="html">An Introduction To The Neuroscience of Consciousness</title><link href="http://localhost:4000/posts/2025/03/an-introduction-to-the-neuroscience-of-consciousness/" rel="alternate" type="text/html" title="An Introduction To The Neuroscience of Consciousness" /><published>2025-03-19T00:00:00-07:00</published><updated>2025-03-19T00:00:00-07:00</updated><id>http://localhost:4000/posts/2025/03/blog-post-1</id><content type="html" xml:base="http://localhost:4000/posts/2025/03/an-introduction-to-the-neuroscience-of-consciousness/">&lt;p&gt;Consciousness is arguably the biggest mystery of the universe. It is about what it is like to be me, you, or another species. For some, it is about how matter becomes imagination (Tonini &amp;amp; Edelman, 1998). At its core, it is about subjective experiences. This post serves as a friendly introduction to the topic.&lt;/p&gt;
+&lt;/ul&gt;</content><author><name>Axel Casas</name><email>Axel.Casas@ruhr-uni-bochum.de</email></author><category term="animals" /><category term="birds" /><category term="dreams" /><category term="sleep" /><summary type="html">Birds have long fascinated us. Their iconic flights, vibrant plumage, and diverse melodies inspired culture, poetry, music, science, and engineering. In the last decades, we have also realized that they are insanely intelligent. They reason, solve problems, and learn in ways that rival primates. They are, quite literally, truly cognitive creatures.</summary></entry><entry><title type="html">An Introduction To The Neuroscience of Consciousness (Part I)</title><link href="http://localhost:4000/posts/2025/03/an-introduction-to-the-neuroscience-of-consciousness/" rel="alternate" type="text/html" title="An Introduction To The Neuroscience of Consciousness (Part I)" /><published>2025-03-19T00:00:00-07:00</published><updated>2025-03-19T00:00:00-07:00</updated><id>http://localhost:4000/posts/2025/03/blog-post-1</id><content type="html" xml:base="http://localhost:4000/posts/2025/03/an-introduction-to-the-neuroscience-of-consciousness/">&lt;p&gt;Consciousness is arguably the biggest mystery of the universe. It is about what it is like to be me, you, or another species. For some, it is about how matter becomes imagination (Tononi &amp;amp; Edelman, 1998). At its core, it is about subjective experiences. This post serves as a friendly introduction to the topic.&lt;/p&gt;
 
 &lt;p&gt;I will focus on the neuroscience of consciousness, its philosophical background, how we study consciousness, and the most prominent theories.&lt;/p&gt;
 
 &lt;p&gt;Enjoy.&lt;/p&gt;
 
-&lt;h4 id=&quot;before-you-read&quot;&gt;&lt;strong&gt;Before You Read&lt;/strong&gt;&lt;/h4&gt;
+&lt;h3 id=&quot;before-you-read&quot;&gt;&lt;strong&gt;Before You Read&lt;/strong&gt;&lt;/h3&gt;
 
-&lt;p&gt;I’m not an expert on the topic. I have just read tons of papers about it and started to (indirectly) research it in birds.&lt;/p&gt;
+&lt;p&gt;I’m not an expert on the topic. I have just read some papers about it and started to (indirectly) research it in birds.&lt;/p&gt;
 
-&lt;p&gt;Consciousness is a huge topic that cannot be summarized in a single article. This is just a general overview.&lt;/p&gt;
-
-&lt;p&gt;You can find all the 30 references I used at the bottom and throughout this article.&lt;/p&gt;
+&lt;p&gt;Plus, consciousness is a huge topic that cannot be summarized in a single article. This is just a general overview. If you want to read more about the topic, I recommend checking the 30 references I used at the bottom and throughout this article.&lt;/p&gt;
 
 &lt;h2 id=&quot;table-of-contents&quot;&gt;&lt;strong&gt;Table of Contents&lt;/strong&gt;&lt;/h2&gt;
 &lt;ol&gt;
   &lt;li&gt;&lt;a href=&quot;#the-philosophical-problem&quot;&gt;The Philosophical Problem&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#how-neuroscientists-do-research-on-consciousness&quot;&gt;How Neuroscientists Do Research On Consciousness?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#two-theories-of-consciousness&quot;&gt;Two Theories of Consciousness&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#book-recommendations&quot;&gt;Book Recommendations&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
@@ -151,12 +68,15 @@
 &lt;h2 id=&quot;1-the-philosophical-problem&quot;&gt;&lt;strong&gt;1. The Philosophical Problem&lt;/strong&gt;&lt;/h2&gt;
 &lt;p&gt;For a long time, consciousness was only a topic for philosophers.&lt;/p&gt;
 
-&lt;p&gt;However, after the pioneering work by Crick &amp;amp; Koch (1990) (who suggested studying the neural correlates of consciousness), consciousness gained significant attention in the scientific community. Since then, many theories have been proposed (for a review, see Seth &amp;amp; Bayne, 2022).&lt;/p&gt;
+&lt;p&gt;They wrestled with questions about the nature of the mind and the subjective experience, the “&lt;em&gt;what it is like&lt;/em&gt;,” that we call consciousness. This was considered something abstract and metaphysical, far from the practical and empirical methods of scientific inquiry. Luckily, this all changed with the pioneering work by Crick &amp;amp; Koch (1990), who suggested that consciousness could be studied scientifically through the identification of the “neural correlates of consciousness” (NCC). This refers to the specific brain activity that corresponds to conscious experience. For example, what is the specific brain activity when you see red and not blue? Or, even more generally: what is the specific brain activity when you report seeing something when you don’t?&lt;/p&gt;
 
-&lt;p&gt;Philosophy, its ideas, and its definitions shape how we do research.&lt;/p&gt;
+&lt;p&gt;Since then, neuroscience has increasingly become the field where many of the questions about consciousness are being addressed. However, philosophy continues to play a central role in shaping how we approach these questions. Why? Well, because definitions, categories, and frameworks provide the “semantics” on which modern science builds. For instance, theories about consciousness, its origins, and its mechanisms often arise from these philosophical considerations about what it means to “be” conscious and the nature of the experience.&lt;/p&gt;
+
+&lt;p&gt;Below are some key philosophical ideas that shape consciousness research:&lt;/p&gt;
 
 &lt;h3 id=&quot;a--isms&quot;&gt;&lt;strong&gt;A. -isms&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;In &lt;em&gt;Being You: A New Science of Consciousness&lt;/em&gt;, Anil Seth (2021) summarizes the -isms as:&lt;/p&gt;
+
+&lt;p&gt;Anil Seth (2021) in &lt;em&gt;Being You: A New Science of Consciousness&lt;/em&gt; summarizes the ongoing philosophical influence by highlighting the “-isms”—different philosophical perspectives on consciousness:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;strong&gt;Functionalism:&lt;/strong&gt; Consciousness depends on the functions performed by the brain, not on its physical structure.&lt;/li&gt;
@@ -167,120 +87,87 @@
   &lt;li&gt;&lt;strong&gt;Illusionism:&lt;/strong&gt; Consciousness is an illusion; it doesn’t exist as we experience it.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&quot;b-the-hard-and-the-easy-problems&quot;&gt;&lt;strong&gt;B. The Hard and the Easy Problem(s)&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;David Chalmers (1995) argued that consciousness has two problems: the easy ones and the hard one.&lt;/p&gt;
+&lt;p&gt;So, if consciousness is seen as the result of brain function (materialism), researchers will focus heavily on neural activity as the primary explanatory factor. If consciousness is considered a fundamental property of the universe (panpsychism), researchers might look for consciousness-related phenomena even in simpler organisms or non-living matter.&lt;/p&gt;
+
+&lt;h3 id=&quot;b-the-hard-and-easy-problems&quot;&gt;&lt;strong&gt;B. The Hard and Easy Problem(s)&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;David Chalmers (1995) introduced one of the most famous philosophical problems in the study of the brain. He distinguished between two types of problems related to consciousness: the easy problems and the hard problem.&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Easy problems:&lt;/strong&gt; Finding the neural substrates for conscious perception, memory, and other behaviors.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Hard problem:&lt;/strong&gt; Explaining how the brain, a physical thing, creates a subjective experience.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Easy problems:&lt;/strong&gt; identifying the neural substrates of conscious perception, memory, and other cognitive functions.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Hard problem:&lt;/strong&gt; explaining how the brain, a physical entity, generates subjective experience.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Nagel (1980) proposed a smart and popular thought experiment to understand this problem:&lt;/p&gt;
+&lt;p&gt;The hard problem is about understanding why that activity feels like something—that is, why it gives rise to personal experiences, or qualia. In contrast, the easy problems focus on observable processes, like how the brain processes sensory input or stores information. However, the hard problem delves into why those processes are accompanied by conscious awareness.&lt;/p&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;strong&gt;What is it like to be a bat?&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;To visualize this issue, let’s focus on another popular thought experiment proposed by Thomas Nagel (1980): &lt;strong&gt;What is it like to be a bat?&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Nagel argues that trying to imagine what the bat feels is incorrect. The correct answer is what the bat feels &lt;strong&gt;as a bat&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Bats are fascinating animals. Despite being mammals, they fly and echolocate. This perception allows them to emit ultrasonic sounds that bounce through objects or things that are surrounded by the animal. The bats listen to the echoes of these bounces and behave based on that. &lt;strong&gt;Try to do this by yourself&lt;/strong&gt;. Close your eyes and try to make a &lt;em&gt;“click”&lt;/em&gt; sound with your tongue. Now, imagine the sound waves reaching your coffee mug. Then, imagine those waves bouncing back to you, creating a mental picture of the size, texture, and more details about the mug.&lt;/p&gt;
 
-&lt;h3 id=&quot;c-phenomenological-vs-access-consciousness&quot;&gt;&lt;strong&gt;C. Phenomenological vs. Access Consciousness&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;Block (1995) suggested distinguishing different kinds of consciousness:&lt;/p&gt;
+&lt;p&gt;So that’s what it’s like to be a bat, right? Well… not for Nagel. According to him, although we can study a bat’s behavior and biology, we can never truly understand what it feels like to be a bat. The correct answer to this question isn’t imagining what we would feel as a bat, but rather recognizing that only a bat can know what it feels like to be a bat. &lt;strong&gt;This is the hard problem: understanding subjective experience is different from studying objective processes&lt;/strong&gt;. So, while we may one day solve the easy problems, the hard problem of consciousness is beyond the limits of the scientific method. That’s why, for many, the hard problem is impossible to resolve.&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Access consciousness:&lt;/strong&gt; The sensory information that becomes conscious.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Phenomenal consciousness:&lt;/strong&gt; Pure subjective experience.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;But this is not the only philosophical approach.&lt;/p&gt;
 
-&lt;p&gt;The &lt;strong&gt;hard problem&lt;/strong&gt; is explaining phenomenal consciousness, while &lt;strong&gt;easy problems&lt;/strong&gt; are related to access consciousness.&lt;/p&gt;
+&lt;h3 id=&quot;phenomenological-vs-access-consciousness&quot;&gt;&lt;strong&gt;Phenomenological vs. Access Consciousness&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;Block (1995) suggested distinguishing between different types of consciousness.&lt;/p&gt;
+
+&lt;p&gt;He argued that having a pure subjective experience—like the redness of red—is different from consciously perceiving that red. For example, if I show you an image briefly, you may be able to consciously perceive it and report, “Yes, I’ve seen that.” However, this conscious recognition is different from the actual feeling of seeing that image—the “what it’s like” to see it. In this distinction, the first type of consciousness is &lt;strong&gt;access consciousness&lt;/strong&gt; (i.e., the ability to report whether you’ve seen the image), while the second type is &lt;strong&gt;phenomenal consciousness&lt;/strong&gt; (i.e., the subjective experience of seeing the image).&lt;/p&gt;
+
+&lt;p&gt;This distinction became a crucial development in the science of consciousness. It allowed neuroscientists to focus on studying access consciousness—the processes involved in conscious perception—and to explore the boundaries of conscious experiences.&lt;/p&gt;
 
 &lt;h3 id=&quot;d-illusionism&quot;&gt;&lt;strong&gt;D. Illusionism&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;Illusionists deny the hard problem entirely.&lt;/p&gt;
 
-&lt;p&gt;For them, subjective experiences are &lt;strong&gt;not mysterious&lt;/strong&gt;; they are just illusions our brains create (Frankish, 2016).&lt;/p&gt;
+&lt;p&gt;This is when things get spicy.&lt;/p&gt;
 
-&lt;p&gt;Some influential thinkers in this view are:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Daniel Dennett&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Keith Frankish&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;Illusionists deny the hard problem entirely. Why? Well, because they challenge the very existence of subjective experience as we understand it. For illusionists, the problem of consciousness is not one of trying to explain how the brain generates subjective experience, but rather understanding why we are so convinced that such an experience exists at all. In short, they argue that consciousness, particularly phenomenal consciousness as we perceive it, is an illusion. One created by the brain. In short, they suggest that the hard problem is misguided because consciousness, in the way we experience it, does not exist as we typically understand it. In this view, once you accept that consciousness is an illusion, the need for an explanation vanishes.&lt;/p&gt;
+
+&lt;p&gt;Yeah, they just erase the problem entirely.&lt;/p&gt;
+
+&lt;p&gt;One of the leading proponents of illusionism is Keith Frankish (2016), who argues that consciousness should be understood as an evolutionary adaptation that provides a useful &lt;em&gt;fiction&lt;/em&gt;—an illusion of subjective experience that helps the brain interpret and interact with the world more effectively. Similarly, Daniel Dennett argued that what we call consciousness is simply a narrative that the brain constructs to make sense of its processes.&lt;/p&gt;
 
 &lt;hr /&gt;
 
 &lt;h2 id=&quot;2-how-neuroscientists-do-research-on-consciousness&quot;&gt;&lt;strong&gt;2. How Neuroscientists Do Research On Consciousness?&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;How neuroscientists study consciousness depends on &lt;strong&gt;how they define it&lt;/strong&gt;.&lt;/p&gt;
 
-&lt;p&gt;Some classic experimental methods include:&lt;/p&gt;
+&lt;p&gt;Research on consciousness is complex, and how scientists approach it often depends on how they define consciousness itself. But despite this challenge, there are several classic experimental methods that have proven valuable in uncovering the mysteries of subjective experiences. Here are some of the key methods:&lt;/p&gt;
 
 &lt;h3 id=&quot;1-binocular-rivalry&quot;&gt;&lt;strong&gt;1. Binocular Rivalry&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;This occurs when each eye is shown a different image simultaneously.&lt;/p&gt;
+
+&lt;p&gt;Binocular rivalry occurs when each eye is presented with a different image at the same time. In this situation, the brain doesn’t merge the two images; instead, it alternates between them, creating a shifting perception. This phenomenon is useful for studying &lt;strong&gt;the neural correlates of conscious perception&lt;/strong&gt;—the specific brain regions involved in the experience of being consciously aware of something.&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;The brain alternates between them, making perception switch from one image to the other.&lt;/li&gt;
-  &lt;li&gt;This helps study the &lt;strong&gt;neural correlates of conscious perception&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Why it matters:&lt;/strong&gt; By observing how the brain responds to this alternating perception, scientists can identify neural mechanisms that contribute to the conscious experience of seeing one image at a time.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;2-priming&quot;&gt;&lt;strong&gt;2. Priming&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;Priming occurs when exposure to one stimulus influences the response to another.&lt;/p&gt;
+
+&lt;p&gt;Priming is a psychological phenomenon where exposure to one stimulus affects how we respond to a subsequent stimulus, often without conscious awareness. For example, if you see a picture of a dog, you might be faster to recognize the word “bone” afterward.&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Often, this happens without conscious awareness.&lt;/li&gt;
-  &lt;li&gt;Neuroscientists use this to explore &lt;strong&gt;unconscious vs. conscious perception&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Why it matters:&lt;/strong&gt; Neuroscientists use priming to explore &lt;strong&gt;unconscious vs. conscious perception&lt;/strong&gt;, shedding light on the differences between automatic processes and those we are consciously aware of. This helps researchers understand how much of our behavior is influenced by unconscious inputs.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;3-dreams&quot;&gt;&lt;strong&gt;3. Dreams&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;Dreams provide a &lt;strong&gt;natural state of altered consciousness&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Dreams provide an intriguing and natural state of altered consciousness. Since dreams occur when we’re asleep, they offer a unique glimpse into what happens when consciousness is “switched off” to some extent but still active.&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Siclari et al. (2017) used &lt;strong&gt;high-definition EEG&lt;/strong&gt; to predict dream content.&lt;/li&gt;
-  &lt;li&gt;They identified a &lt;strong&gt;posterior cortical hot zone&lt;/strong&gt; activated when dreaming.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Why it matters:&lt;/strong&gt; Researchers like Siclari et al. (2017) have used &lt;strong&gt;high-definition EEG&lt;/strong&gt; to predict and map dream content, identifying a &lt;strong&gt;posterior cortical hot zone&lt;/strong&gt; that is activated during dreaming. By studying dreams, neuroscientists gain insights into the neural mechanisms underlying altered states of consciousness.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;4-other-methods&quot;&gt;&lt;strong&gt;4. Other Methods&lt;/strong&gt;&lt;/h3&gt;
+
 &lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;The mirror test&lt;/strong&gt; (Boyle, 2017)&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Psychedelics &amp;amp; altered states&lt;/strong&gt; (Yaden et al., 2021)&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Metacognition experiments&lt;/strong&gt; (Fleming, 2023)&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Illusions, such as the Rubber Hand Illusion&lt;/strong&gt; (Constantini &amp;amp; Haggard, 2007)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;The Mirror Test&lt;/strong&gt; (Boyle, 2017): This test is used to assess self-awareness by determining if an animal recognizes itself in a mirror, a sign of higher-order consciousness.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Psychedelics &amp;amp; Altered States&lt;/strong&gt; (Yaden et al., 2021): By studying the effects of psychedelics, scientists investigate how substances can alter conscious experiences, providing clues about the brain’s role in perception and awareness.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Metacognition Experiments&lt;/strong&gt; (Fleming, 2023): These experiments study how individuals assess their own mental states, offering insights into how we become aware of our thoughts and how we know what we know.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Illusions, such as the Rubber Hand Illusion&lt;/strong&gt; (Constantini &amp;amp; Haggard, 2007): In this illusion, participants experience a fake hand as their own, revealing how the brain constructs the sense of body ownership and how conscious experience can be manipulated.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;hr /&gt;
 
-&lt;h2 id=&quot;3-two-theories-of-consciousness&quot;&gt;&lt;strong&gt;3. Two Theories of Consciousness&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;Over the last decades, two main theories have dominated the field:&lt;/p&gt;
-
-&lt;h3 id=&quot;a-integrated-information-theory-iit&quot;&gt;&lt;strong&gt;A. Integrated Information Theory (IIT)&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;First proposed by &lt;strong&gt;Giulio Tononi (2004)&lt;/strong&gt;, IIT suggests that &lt;strong&gt;consciousness is integrated information&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;It proposes a way to &lt;strong&gt;measure&lt;/strong&gt; consciousness with &lt;strong&gt;Phi&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;It defines &lt;strong&gt;five axioms&lt;/strong&gt; of experience: &lt;strong&gt;intrinsicality, information, integration, exclusion, and composition&lt;/strong&gt; (Albantakis, 2023).&lt;/li&gt;
-  &lt;li&gt;The main problem? &lt;strong&gt;Phi is impossible to falsify&lt;/strong&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;A fair critique of IIT is found in &lt;strong&gt;Scott Aaronson’s blog&lt;/strong&gt;:&lt;br /&gt;
-👉 &lt;a href=&quot;https://scottaaronson.blog/?p=1823&quot;&gt;Read the critique&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;b-global-neuronal-workspace-theory-gnwt&quot;&gt;&lt;strong&gt;B. Global Neuronal Workspace Theory (GNWT)&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;Proposed by &lt;strong&gt;Baars (1997, 2005)&lt;/strong&gt; and later refined by &lt;strong&gt;Dehaene &amp;amp; Naccache (2001)&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Consciousness happens when information enters the “global workspace” of the brain.&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;GNWT is &lt;strong&gt;well-supported&lt;/strong&gt; by research (Mashour et al., 2020).&lt;/li&gt;
-  &lt;li&gt;However, &lt;strong&gt;it focuses on access consciousness&lt;/strong&gt; rather than phenomenal consciousness.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Other theories include:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Higher Order Theory (HOT)&lt;/strong&gt; (LeDoux &amp;amp; Brown, 2017)&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Prefrontal Perceptual Reality Monitoring (PRM)&lt;/strong&gt; (Lau, 2021)&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Beast Machine Theory&lt;/strong&gt; (Seth &amp;amp; Tsakiris, 2018)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;For a &lt;strong&gt;review of 22 theories&lt;/strong&gt;, see &lt;strong&gt;Seth &amp;amp; Bayne (2022).&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;4-book-recommendations&quot;&gt;&lt;strong&gt;4. Book Recommendations&lt;/strong&gt;&lt;/h2&gt;
+&lt;h2 id=&quot;3-book-recommendations&quot;&gt;&lt;strong&gt;3. Book Recommendations&lt;/strong&gt;&lt;/h2&gt;
 &lt;p&gt;If you’re interested in learning more, here are some books worth reading:&lt;/p&gt;
 
 &lt;ul&gt;
@@ -297,7 +184,9 @@
 &lt;h2 id=&quot;final-thoughts&quot;&gt;&lt;strong&gt;Final Thoughts&lt;/strong&gt;&lt;/h2&gt;
 &lt;p&gt;Summarizing consciousness in one article is not fair.&lt;/p&gt;
 
-&lt;p&gt;My goal was to provide a &lt;strong&gt;friendly introduction&lt;/strong&gt; to the topic. Philosophical ideas and consciousness theories were &lt;strong&gt;violently summarized&lt;/strong&gt; here. If you are interested, I highly encourage you to read the &lt;strong&gt;cited papers&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;My goal was to provide a &lt;strong&gt;friendly introduction&lt;/strong&gt; to the topic. Philosophical ideas were &lt;strong&gt;violently summarized&lt;/strong&gt; here. If you are interested, I highly encourage you to read the &lt;strong&gt;references&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;That was enough philosophy for this post. In part II, I will try my best to summarize some theories of consciousness. Spoiler alert: Whether something does or does not have consciousness depends on how you define it. From here, things get spicy, and drama shows up.&lt;/p&gt;
 
 &lt;p&gt;I hope you enjoyed reading this.&lt;/p&gt;
 
@@ -361,4 +250,4 @@
 
 &lt;p&gt;Tononi, G. An information integration theory of consciousness. BMC Neurosci 5, 42 (2004). https://doi.org/10.1186/1471-2202-5-42&lt;/p&gt;
 
-&lt;p&gt;Tong, F., Meng, M., &amp;amp; Blake, R. (2006). Neural bases of binocular rivalry. Trends in Cognitive Sciences, 10(11), 502–511. https://doi.org/10.1016/j.tics.2006.09.003&lt;/p&gt;</content><author><name>Axel Casas</name><email>Axel.Casas@ruhr-uni-bochum.de</email></author><category term="consciousness" /><category term="neuroscience" /><category term="philosophy" /><summary type="html">Consciousness is arguably the biggest mystery of the universe. It is about what it is like to be me, you, or another species. For some, it is about how matter becomes imagination (Tonini &amp;amp; Edelman, 1998). At its core, it is about subjective experiences. This post serves as a friendly introduction to the topic.</summary></entry></feed>
+&lt;p&gt;Tong, F., Meng, M., &amp;amp; Blake, R. (2006). Neural bases of binocular rivalry. Trends in Cognitive Sciences, 10(11), 502–511. https://doi.org/10.1016/j.tics.2006.09.003&lt;/p&gt;</content><author><name>Axel Casas</name><email>Axel.Casas@ruhr-uni-bochum.de</email></author><category term="consciousness" /><category term="neuroscience" /><category term="philosophy" /><summary type="html">Consciousness is arguably the biggest mystery of the universe. It is about what it is like to be me, you, or another species. For some, it is about how matter becomes imagination (Tononi &amp;amp; Edelman, 1998). At its core, it is about subjective experiences. This post serves as a friendly introduction to the topic.</summary></entry></feed>
